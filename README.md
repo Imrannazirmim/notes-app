@@ -3,5 +3,5 @@
 <img src="public/project.png" alt="project image">
 
 
-<a href="https://notes-app-xi-hazel.vercel.app/">Preview</a>
+<a href="https://notes-app-xi-hazel.vercel.app/" target="_blank">Preview</a>
 
